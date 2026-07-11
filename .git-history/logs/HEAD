@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 195cb05221665840b99f9c3b167e97b7f126abac Gogs <gogs@fake.local> 1782840136 +0500	clone: from https://github.com/kinnector/kinnector-desktop.git
+195cb05221665840b99f9c3b167e97b7f126abac f88e69ccaf484e6b795520f3f0b4e6f845325260 Gogs <gogs@fake.local> 1782841343 +0500	commit: Update frontend implementation specification to resolve inconsistencies with core design system
+f88e69ccaf484e6b795520f3f0b4e6f845325260 393101148093c685cd2812db534b7ae26a5c6792 Gogs <gogs@fake.local> 1783113225 +0500	commit: update README and DESIGN with Tauri 2 integration details
+393101148093c685cd2812db534b7ae26a5c6792 be623645ee3fab90b682b022a8fe57ff08ca28ca Gogs <gogs@fake.local> 1783127002 +0500	commit: chore: update source, docs and build configs
+be623645ee3fab90b682b022a8fe57ff08ca28ca 547e1312723cb1704fd0bd3f6b6998a6216d83b6 Gogs <gogs@fake.local> 1783200353 +0500	commit: Implement Phase 1: Structured JSON EDR alerts and new CLI commands (ps, rules list, trust-once, version)
+547e1312723cb1704fd0bd3f6b6998a6216d83b6 0b459c365c7ad21874347eb4d94ad399d660ae6d Gogs <gogs@fake.local> 1783200736 +0500	commit: feat: implement hybrid real-time subscription push streaming over control socket
+0b459c365c7ad21874347eb4d94ad399d660ae6d 1759c8ea7cb8ad1e277f8b703b451fee9d84d668 goriyasno <kinnector@gmail.com> 1783200736 +0500	filter-branch: rewrite
+1759c8ea7cb8ad1e277f8b703b451fee9d84d668 5c1ac4a00e61eafb5b3405486fc5067745f14a13 goriyasno <kinnector@gmail.com> 1783378536 +0500	commit: Normalize kinnector brand name spelling and bolding in README
+5c1ac4a00e61eafb5b3405486fc5067745f14a13 48bc9a632781baea3556a896c30671975d12eedf goriyasno <kinnector@gmail.com> 1783528828 +0500	commit: Update README.md to align with the documentation constitution
